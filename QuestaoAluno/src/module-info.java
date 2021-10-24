@@ -1,0 +1,3 @@
+module QuestaoAluno {
+	exports aluno;
+}
